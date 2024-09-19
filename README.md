@@ -25,3 +25,7 @@ Contractions to convert:
 other special cases:
   - i'm -- "i" and "am".
 Note that, if a word contains multiple contractions (e.g. "shouldn't've"), you must separate ALL of them (e.g. "should", "not", "have").
+
+### Zip-f plot for the word frequencies
+
+![alt text](image.png)
